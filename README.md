@@ -1,3 +1,3 @@
-<h1 align="center">Testes usando o Git no VScode.</h1>
-<p>paragrafo</p>
+<h1 align="center">Aula de Git e Github.</h1>
+<p>Aplicando os conecimentos adiquiridos.</p>
 <hr>
